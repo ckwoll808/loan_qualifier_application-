@@ -37,6 +37,9 @@ Alternatively you can exit the app with Command-C
 Jennifer Jackson
 jennifermjackson@berkeley.edu
 
+Christian Woll 
+ckwoll00@gmail.com
+
 ---
 
 ## License
